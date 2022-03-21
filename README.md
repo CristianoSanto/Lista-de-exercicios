@@ -1,2 +1,1 @@
-# Meus-exerc-cios-Python
-Lista de exercícios que estou desenvolvendo assistindo as aulas.
+# Lista de exercícios que estou desenvolvendo assistindo as aulas.
